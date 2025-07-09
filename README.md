@@ -1,7 +1,7 @@
 # ai-hackathon
 AI Hackathon -  E-Commerce Forecasting For Sales
 
-Challenge Details
+## Challenge Details
 Your task is to develop a to develop a machine learning model that predicts the future sales quantity of e-commerce products based on historical sales data.
 
 Participation and Benefits
